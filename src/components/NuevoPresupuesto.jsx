@@ -1,7 +1,11 @@
 import { useState } from 'react'
 import Mensaje from './Mensaje'
 
-const NuevoPresupuesto = ({presupuesto, setPresupuesto, setValidPresupuesto}) => {
+const NuevoPresupuesto = ({
+    presupuesto, 
+    setPresupuesto, 
+    setValidPresupuesto
+}) => {
 
     const [mensaje, setMensaje] = useState('')
 
