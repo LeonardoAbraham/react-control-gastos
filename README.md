@@ -15,3 +15,6 @@ npm install
 npm run dev
 ```
 
+## Imagenes del proyecto
+
+
