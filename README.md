@@ -16,5 +16,10 @@ npm run dev
 ```
 
 ## Imagenes del proyecto
+![Image text](https://github.com/LeonardoAbraham/react-control-gastos/blob/main/public/pantallaInicio.png)
+
+![Image text](https://github.com/LeonardoAbraham/react-control-gastos/blob/main/public/listadoDeGastos.png)
+
+![Image text](https://github.com/LeonardoAbraham/react-control-gastos/blob/main/public/pantallaModal.png)
 
 
